@@ -1,0 +1,10 @@
+leetcode-206-https://leetcode.com/problems/reverse-linked-list/
+leetcode-876-https://leetcode.com/problems/middle-of-the-linked-list/description/
+leetcode-141-https://leetcode.com/problems/linked-list-cycle/
+leetcode-83-https://leetcode.com/problems/remove-duplicates-from-sorted-list/
+leetcode-234-https://leetcode.com/problems/palindrome-linked-list/submissions/1775082965/
+leetcode-237-https://leetcode.com/problems/delete-node-in-a-linked-list/
+leetcode-160-https://leetcode.com/problems/intersection-of-two-linked-lists/description/
+leetcode-1721-https://leetcode.com/problems/swapping-nodes-in-a-linked-list/
+leetcode-203-https://leetcode.com/problems/remove-linked-list-elements/submissions/1776775936/
+leetcode-19-https://leetcode.com/problems/remove-nth-node-from-end-of-list/
